@@ -1,7 +1,6 @@
 # employee management, payroll generation
 List the main features of your Payroll System. For example:
-
-    Adding new employees with ID, name, salary, and allowance.
+ Adding new employees with ID, name, salary, and allowance.
     Viewing employee details.
     Updating employee salary and allowance.
     Generating payroll reports.
